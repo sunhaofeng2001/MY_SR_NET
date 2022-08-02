@@ -1,0 +1,1 @@
+Model Version: 2022_8_1  best epoch: 9  psnr: tensor(29.1520, device='cuda:0')  Tue Aug  2 18:23:18 2022
